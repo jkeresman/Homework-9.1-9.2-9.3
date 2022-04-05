@@ -15,7 +15,6 @@ def kilometers_input():
 
 
 def another_conversion():
-
     flag = True
 
     while True:
