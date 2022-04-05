@@ -19,7 +19,7 @@ def another_conversion():
 
     while True:
         answer = input("Do you want to do another conversion [yes/no] ?  ")
-        if answer.lower() == "no" or answer.lower == "yes":
+        if answer.lower() == "no":
             flag = False
             break
         elif answer.lower() == "yes":
